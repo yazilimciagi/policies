@@ -1,2 +1,9 @@
-# inclusion
-Our Diversity, Equity and Inclusion principles for the community
+# Our Diversity, Equity and Inclusion Principles
+
+## Contents
+
+- [Code of Conduct](./CODE_OF_CONDUCT.md)
+
+## License
+
+See [LICENSE](./LICENSE) for details.
