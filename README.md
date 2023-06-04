@@ -1,8 +1,11 @@
-# Our Diversity, Equity and Inclusion Principles
+# Our Policies
 
 ## Contents
 
+### Diversity, Equity and Inclusion principles
+
 - [Code of Conduct](./CODE_OF_CONDUCT.md)
+
 
 ## License
 
